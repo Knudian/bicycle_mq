@@ -1,0 +1,19 @@
+{
+  "name": "bicycle_mq",
+  "version": "1.0.0",
+  "description": "A Message Broker for the Bicycle project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knudian/bicycle_mq.git"
+  },
+  "author": "Knudian, Fubuke, Aaol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knudian/bicycle_mq/issues"
+  },
+  "homepage": "https://github.com/Knudian/bicycle_mq#readme"
+}
